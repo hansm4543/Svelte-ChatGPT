@@ -16,7 +16,7 @@ Learn and Use Svelte
 
 ## How to boot the application:
 
-- For frontend, with CMD you have to move to frontend folder and first type npm install to install all packages and after that you can type npm start.
+- For frontend, with CMD you have to move to frontend folder and first type npm install to install all packages and after that you can type npm run dev -- --open.
 
 </br>
 
